@@ -72,6 +72,12 @@ A mobile streaming & short-video app.
   <img src="/assets/soul/soul_4.png" width="220" />
 </p>
 
+**Technologies:**
+- 💻 Swift & UIKit
+- 🛒 StoreKit
+- 🗂️ Realm
+- 📺 Connect SDK Integration
+
 ---
 
 If you'd like, I can also prepare:
