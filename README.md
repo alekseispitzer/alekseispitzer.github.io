@@ -40,7 +40,6 @@ A custom iOS app for restaurants and food discovery.
   <img src="/assets/gastro/gastro_login.png" width="220" />
   <img src="/assets/gastro/gastro_home.png" width="220" />
   <img src="/assets/gastro/gastro_details.png" width="220" />
-  <img src="/assets/gastro/gastro_menu.jpg" width="220" />
 </p>
 
 ---
