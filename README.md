@@ -90,9 +90,9 @@ A system that helps EV owners link their electric vehicles to Sense's energy mob
 - Pixel-perfect layout aligned with Figma
 
 <p align="center">
-  <img src="/assets/sense/device_settings.png" width="220" />
-  <img src="/assets/sense/device_settings_manage.png" width="220" />
-  <img src="/assets/sense/device_settings_details.png" width="220" />
+  <img src="/assets/sense/device_settings.PNG" width="220" />
+  <img src="/assets/sense/device_settings_manage.PNG" width="220" />
+  <img src="/assets/sense/device_settings_details.PNG" width="220" />
 </p>
 
 ---
