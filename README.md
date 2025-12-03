@@ -25,6 +25,14 @@ A pioneering digital singing app used across Latin America.
   <img src="/assets/kanto/kanto_screen_4.jpg" width="240" />
 </p>
 
+Technologies
+
+💻 Objective-C & Swift
+🛒 StoreKit
+🔥 Firebase — Analytics, Crashlytics, Remote Notifications
+🎞️ Lottie for animations
+🔨 MVC Architecture
+
 ---
 
 ### **Gastro – Restaurant Discovery App**
