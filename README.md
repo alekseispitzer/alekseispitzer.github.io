@@ -3,14 +3,14 @@
 
 **Senior iOS Developer · 12+ Years Experience · INTJ · Swiss–Costa Rican 🇨🇭🇨🇷**
 
-iOS Developer with 12 years in tech, specializing in Apple’s ecosystem since 2012. I build user-centric, scalable applications for **iOS and iPadOS** using **Swift, UIKit, and SwiftUI**, with additional experience in Android development. Passionate about **UX design**, clean architecture, and delivering smooth, impactful user experiences.
+iOS Developer with 12 years in tech, specializing in Apple’s ecosystem since 2012. I build user-centric, scalable applications for **iOS and iPadOS** using **Swift, UIKit, and SwiftUI**, with additional experience in Android development. Passionate about **UX design**, **clean architecture**, and delivering smooth, impactful user experiences.
 
 
 ## 🚀 What I Do Best
 
-I build high-quality, production-ready iOS apps end-to-end, balancing clean architecture, great UX, and practical delivery. I specialize in SwiftUI, TCA, UIKit, and media-rich features (AVFoundation, Core Audio, FFMPEG), smooth interfaces, efficient data flows, and scalable feature architectures.
+I build high-quality, production-ready iOS apps end-to-end, balancing clean architecture, great UX, and pragmatic delivery. I specialize in **Swift**, **SwiftUI** & **UIKit**, and media-rich features using **AVFoundation**, **Core Audio**, and **FFMPEG**—focusing on smooth interfaces, efficient data flows, and scalable feature architectures.
 
-I’ve worked with multidisciplinary teams across startups in Latin America and larger U.S. companies like Fiserv and MindForge, adapting quickly to different cultures and workflows. This experience helps me collaborate effectively with design, product, backend, and QA to deliver features that are consistent, reliable, and user-focused.
+I’ve collaborated with multidisciplinary teams across startups in Latin America and larger U.S. companies like **Fiserv** and **MindForge**, adapting quickly to different cultures and workflows. This experience helps me work effectively with design, product, backend, and QA to deliver features that are consistent, reliable, and user-centered.
 
 ---
 
@@ -134,8 +134,7 @@ https://sense.com/
 
 ## 📬 Contact
 
-**Email:** alekspitzer@gmail.com  
-**GitHub:** https://github.com/alekseispitzer  
+**Email:** alekspitzer@gmail.com
 **LinkedIn:** https://www.linkedin.com/in/alek-spitzer-55b678bb/  
 
 *Code samples available upon request.*
