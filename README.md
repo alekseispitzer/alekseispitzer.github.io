@@ -136,4 +136,4 @@ https://sense.com/
 ## 📬 Contact
 
 **Email:** alekspitzer@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/alek-spitzer-55b678bb/
+**LinkedIn:** https://www.linkedin.com/in/alek-spitzer-55b678bb
