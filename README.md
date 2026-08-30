@@ -135,7 +135,7 @@ https://sense.com
 ## 🛠️ Skills & Tools
 
 **Languages & UI:** Swift, SwiftUI, UIKit, Objective-C  
-**Architectures:** TCA, MVVM, MVC, Coordinators  
+**Architectures:** TCA, MVVM, MVC, Coordinators, Clean Architecture, SOLID  
 **Frameworks:** AVFoundation, Core Audio, StoreKit, Firebase  
 **Data & Networking:** REST APIs, Alamofire, Realm, Core Data  
 **Tooling & Testing:** Xcode, Git, Fastlane, CI/CD, XCTest, Quick/Nimble, KIF
