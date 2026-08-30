@@ -1,15 +1,15 @@
 
 # 👋 Hi, I’m **Alek Spitzer**
 
-**Senior iOS Engineer · INTJ · Swiss–Costa Rican 🇨🇭🇨🇷 · Crafting meaningful mobile experiences**
+**Senior iOS Engineer · Swiss–Costa Rican 🇨🇭🇨🇷**
 
-I have 12+ years of experience building high-quality, user-focused apps using Swift, SwiftUI, and UIKit. I’ve led mobile development across startups and U.S. enterprise teams, delivering scalable features, clean architectures, and pixel-perfect UI. I’m passionate about **great UX**, technical excellence, and continuously improving my craft. Swiss–Costa Rican, disciplined, and driven to build products that genuinely make an impact.
+I have 10+ years of experience building high-quality, user-focused apps using Swift, SwiftUI, and UIKit. I’ve led mobile development across startups and U.S. enterprise teams, delivering scalable features, clean architectures, and pixel-perfect UI. I’m passionate about great UX, technical excellence, and continuously improving my craft. Disciplined and driven to build products that genuinely make an impact.
 
 ## 🚀 What I Do Best
 
-I specialize in **Swift**, **SwiftUI** & **UIKit**, and media-rich features using **AVFoundation**, **Core Audio**, and **FFMPEG**—focusing on smooth interfaces, efficient data flows, and scalable feature architectures.
+I specialize in **Swift**, **SwiftUI**, and **UIKit**, with a strong focus on scalable iOS architecture, maintainable code, and polished user experiences. My recent work includes **Server-Driven UI, TCA, Clean Architecture, SOLID principles, REST APIs, testing, CI/CD, and App Store delivery**, alongside deeper experience with media frameworks such as **AVFoundation**, **Core Audio**, and **FFmpeg**.
 
-I’ve collaborated with multidisciplinary teams across startups in Latin America and larger U.S. companies like **Fiserv** and **MindForge**, adapting quickly to different cultures and workflows. This experience helps me work effectively with design, product, backend, and QA to deliver features that are consistent, reliable, and user-centered.
+I’ve worked across startups and enterprise teams in consumer apps, financial services, payments, media, and connected-device products. I collaborate closely with product, design, backend, Android, and QA teams to turn complex requirements into reliable, user-centered mobile experiences.
 
 ---
 
@@ -38,7 +38,7 @@ A pioneering digital singing app used across Latin America.
 - 🎞️ Lottie for animations
 - 🔨 MVC Architecture
 
-https://kanto.global/
+https://kanto.global
 
 ---
 
@@ -50,12 +50,10 @@ A native iOS application I designed and developed for discovering restaurants ac
 - Developed restaurant discovery, search, location-based browsing, favorites, and detailed restaurant profiles
 - Integrated restaurant menus, pricing, opening hours, photographs, contact information, and reservation actions
 - Implemented **Google Places** integration for restaurant data and location-based discovery
-- Built a scalable native UI using **Swift, UIKit, MVVM, and Coordinator architecture**
+- Built a scalable native iOS architecture using **Swift, UIKit, MVVM, and Coordinators**
 - Implemented REST API integration, pagination, location services, and persistent user favorites
 - Focused heavily on usability, performance, and a polished consumer-facing experience
 - Published and maintain the application on the **Apple App Store**
-
-[Download Gastro on the App Store](https://apps.apple.com/app/id6757441920)
 
 <p align="center">
   <img src="/assets/gastro/gastro_1.png" width="220" />
@@ -68,6 +66,8 @@ A native iOS application I designed and developed for discovering restaurants ac
 - 🔗 Alamofire for REST API
 - 📍 Geofencing with Core Location
 - 🔨 MVVM Architecture
+
+[Download Gastro on the App Store](https://apps.apple.com/app/id6757441920)
 
 ---
 
@@ -93,7 +93,7 @@ A mobile streaming & short-video app.
 - 📺 Connect SDK Integration
 - 🔨 MVC Architecture
 
-https://www.soultv.com.br/
+https://www.soultv.com.br
 
 ---
 
@@ -101,9 +101,8 @@ https://www.soultv.com.br/
 
 Modernized the Device Settings flow within the Sense mobile app.
 
-**Highlights**
 - Refactored and modernized the Device Settings experience inside the Sense app
-- Delivered my first fully SwiftUI-based feature
+- Delivered a fully SwiftUI-based feature within an established production application
 - Adopted **TCA (The Composable Architecture)** for predictable state management and improved testability
 - Improved maintainability and UI consistency
 - Pixel-perfect layout aligned with Figma
@@ -123,7 +122,7 @@ Modernized the Device Settings flow within the Sense mobile app.
 - 📱 Responsive & dynamic layout support
 - ⚙️ Dependency injection via TCA
 
-https://sense.com/
+https://sense.com
 
 ---
 
