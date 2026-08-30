@@ -71,14 +71,16 @@ A native iOS application I designed and developed for discovering restaurants ac
 
 ---
 
-### **SoulTV – Social Video Platform**
+### **SoulTV – Social Video & Streaming Platform**
 
-A mobile streaming & short-video app.
+A custom iOS video experience supporting both **live channels and VOD playback**, built on top of **AVPlayer** and **AVPlayerLayer**.
 
-* Smooth video feed (**AVPlayer + preloading**)
-* Profiles, comments, likes, authentication
-* Modular architecture with reusable components
-* Analytics + push notifications
+- Built a custom video player with support for **live and VOD playback**, seeking, custom controls, subtitles, analytics, and external playback
+- Integrated **Google IMA** for client-side ad insertion, coordinating content pause/resume and ad-aware player UI state
+- Implemented custom **SRT subtitle synchronization** using periodic AVPlayer time observation
+- Added secure playback URL handling using **Akamai URL signing**
+- Instrumented playback analytics including progress milestones, live viewing time, subtitle usage, and casting events
+- Structured the player around reusable components for ads, subtitles, secure playback, and external playback
 
 <p align="center">
   <img src="/assets/soul/soul_1.png" width="220" />
@@ -87,11 +89,15 @@ A mobile streaming & short-video app.
 </p>
 
 **Technologies:**
+
 - 💻 Swift & UIKit
-- 🛒 StoreKit
+- 📺 AVPlayer / AVPlayerLayer
+- 📢 Google IMA
+- 💬 SRT Subtitles
+- 🔐 Akamai URL Signing
 - 🗂️ Realm
-- 📺 Connect SDK Integration
-- 🔨 MVC Architecture
+- 📱 External Playback / Casting
+- 📊 Playback Analytics
 
 https://www.soultv.com.br
 
