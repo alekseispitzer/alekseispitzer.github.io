@@ -1,7 +1,7 @@
 
 # 👋 Hi, I’m **Alek Spitzer**
 
-**Senior iOS Developer · INTJ · Swiss–Costa Rican 🇨🇭🇨🇷 · Crafting meaningful mobile experiences**
+**Senior iOS Engineer · INTJ · Swiss–Costa Rican 🇨🇭🇨🇷 · Crafting meaningful mobile experiences**
 
 I have 12+ years of experience building high-quality, user-focused apps using Swift, SwiftUI, and UIKit. I’ve led mobile development across startups and U.S. enterprise teams, delivering scalable features, clean architectures, and pixel-perfect UI. I’m passionate about **great UX**, technical excellence, and continuously improving my craft. Swiss–Costa Rican, disciplined, and driven to build products that genuinely make an impact.
 
@@ -44,17 +44,25 @@ https://kanto.global/
 
 ### **Gastro – Restaurant Discovery App**
 
-A custom iOS app for restaurants and food discovery.
+A native iOS application I designed and developed for discovering restaurants across Costa Rica.
 
-* Search, filters, location picker, favorites
-* Complex custom UI built in **UIKit**
-* Google Places integration, pagination, coordinator architecture
-* Fast, smooth UI focused on usability and clarity
+- Built the product end-to-end, from architecture and UX to production release
+- Developed restaurant discovery, search, location-based browsing, favorites, and detailed restaurant profiles
+- Integrated restaurant menus, pricing, opening hours, photographs, contact information, and reservation actions
+- Implemented **Google Places** integration for restaurant data and location-based discovery
+- Built a scalable native UI using **Swift, UIKit, MVVM, and Coordinator architecture**
+- Implemented REST API integration, pagination, location services, and persistent user favorites
+- Focused heavily on usability, performance, and a polished consumer-facing experience
+- Published and maintain the application on the **Apple App Store**
+
+[Download Gastro on the App Store](https://apps.apple.com/app/id6757441920)
 
 <p align="center">
-  <img src="/assets/gastro/gastro_login.png" width="220" />
-  <img src="/assets/gastro/gastro_home.png" width="220" />
-  <img src="/assets/gastro/gastro_details.png" width="220" />
+  <img src="/assets/gastro/gastro_1.png" width="220" />
+  <img src="/assets/gastro/gastro_2.png" width="220" />
+  <img src="/assets/gastro/gastro_3.png" width="220" />
+  <img src="/assets/gastro/gastro_4.png" width="220" />
+  <img src="/assets/gastro/gastro_5.png" width="220" />
 </p>
 
 **Technologies:**
