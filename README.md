@@ -61,8 +61,6 @@ A native iOS application I designed and developed for discovering restaurants ac
   <img src="/assets/gastro/gastro_1.png" width="220" />
   <img src="/assets/gastro/gastro_2.png" width="220" />
   <img src="/assets/gastro/gastro_3.png" width="220" />
-  <img src="/assets/gastro/gastro_4.png" width="220" />
-  <img src="/assets/gastro/gastro_5.png" width="220" />
 </p>
 
 **Technologies:**
